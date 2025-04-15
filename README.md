@@ -1,10 +1,6 @@
 # Web Scraping With Playwright
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
-
-[<img src="https://img.shields.io/static/v1?label=&message=Playwright&color=brightgreen" />](https://github.com/topics/playwright) [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping)
 
 - [Web Scraping With Playwright](#web-scraping-with-playwright)
   - [Support for proxies in Playwright](#support-for-proxies-in-playwright)
